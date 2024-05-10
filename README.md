@@ -13,7 +13,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <p align="center">Sumang, Vex</p>
 
  ## About
- <p> DeTechs is a school-based project based onthe College the College of Informatics and Computing Sciences atat Batangas State University, Alangilan. </p>
+ <p> DeTechs is a school-based project based onthe College the College of Informatics and Computing Sciences at Batangas State University, Alangilan. </p>
 
 <p> It has a gadget containing sensors for fire and earthquake detection. </p>
 <p> Coupled with a Windows application for CICS technicians who will accommodate weather forecasts, earthquake warnings, and fire notifications. </p>
