@@ -19,12 +19,23 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <p> Coupled with a Windows application for CICS technicians who will accommodate weather forecasts, earthquake warnings, and fire notifications. </p>
 
 ## Features 
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" width= "50">
-</p>
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" width= "50">
-</p>
+ <style>
+        .row {
+            display: flex; 
+            justify-content: center; 
+            margin-bottom: 20px; 
+        }
+        .row img {
+            margin: 0 10px;
+        }
+    </style>
+<body>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="200">
+        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" alt="Image 2" width="200">
+        <img src="image3.jpg" alt="Image 3" width="200">
+    </div>
+</body>
 
 <ul>
   <h3>Gadget Features and Components </h3>
