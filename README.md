@@ -1,6 +1,3 @@
-<p align="center"> 
-    <img src="">
-</p>
 
 <h1 align="center"> 
 DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
