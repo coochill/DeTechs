@@ -20,7 +20,10 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 
 ## Features 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg">
+    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" width= "50">
+</p>
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" width= "50">
 </p>
 
 <ul>
