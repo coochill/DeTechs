@@ -19,16 +19,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <p> Coupled with a Windows application for CICS technicians who will accommodate weather forecasts, earthquake warnings, and fire notifications. </p>
 
 ## Features 
- <style>
-        .row {
-            display: flex; 
-            justify-content: center; 
-            margin-bottom: 20px; 
-        }
-        .row img {
-            margin: 0 10px;
-        }
-    </style>
+
 <body>
     <div class="row">
         <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="200">
