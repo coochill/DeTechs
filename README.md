@@ -22,12 +22,12 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 
 <body>
     <div class="row">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e1d.png" alt="Image 2" width="300">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e2d.png" alt="Image 3" width="300">
+        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e1d.png" alt="Image 2" width="500">
+        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e2d.png" alt="Image 3" width="500">
     </div>
 	    <div class="row">
-	<img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="200">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/weather.png" alt="Image 4" width="300">
+	<img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="400">
+        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/weather.png" alt="Image 4" width="500">
     </div>
 </body>
 
@@ -44,7 +44,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <ul>
   <h3> Windows application Features </h3>
 	<li><b>Weather Forecast</b> Includes heat index and precipitation updates</li>
-	<li> <b>Earthquake dashboard</b> Includes magnitude panel and safety measures</li>
+	<li> <b>Earthquake dashboard</b> Includes magnitude panel, history of the activity, and safety measures</li>
   <li> <b>Fire dashboard</b> Includes safety measures and emergency contacts</li>
   <li><strong>Real-time notifications</strong> for fire and earthquake detection</li>
 </ul>
