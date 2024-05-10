@@ -74,13 +74,13 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <p>By providing information and alerts related to climate-related hazards, the gadget supports the integration of climate change measures into national policies and strategies for disaster risk reduction and emergency response planning.</p>
 
 ## OOP Principles
-<p> Encapsultaion </p>
-- By the use of access modifiers such as protected for fields and methods in the classes. 
-<p> Inheritance </p>
-- Demonstrated by the WeatherForecastClass and CurrentWeather classes inheriting from the API class. 
-<p> Abstraction </p>
-- Demonstrated by the definition of abstract methods in the WeatherForecastClass and CurrentWeather classes (getDescription, getIcon, getTemp). 
-<p> Polymorphism </p>
-- Demonstrated by the getIcon, getDescription, and getTemp methods in the WeatherForecastClass and CurrentWeather classes. 
+<strong> Encapsultaion </strong>
+<b></b> By the use of access modifiers such as protected for fields and methods in the classes. 
+<strong> Inheritance </strong>
+<b></b> Demonstrated by the WeatherForecastClass and CurrentWeather classes inheriting from the API class. 
+<strong> Abstraction </strong>
+<b></b> Demonstrated by the definition of abstract methods in the WeatherForecastClass and CurrentWeather classes (getDescription, getIcon, getTemp). 
+<strong> Polymorphism </strong>
+<b></b> Demonstrated by the getIcon, getDescription, and getTemp methods in the WeatherForecastClass and CurrentWeather classes. 
 
 
