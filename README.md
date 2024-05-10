@@ -22,7 +22,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 
 <body>
     <div class="row">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="200">
+        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="200"> <p>Fire dashboard</p>
         <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" alt="Image 2" width="200">
         <img src="image3.jpg" alt="Image 3" width="200">
     </div>
