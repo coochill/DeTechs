@@ -39,8 +39,8 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
   <h3> Windows application Features </h3>
 	<li><strong>Dashboards</strong></li>
 	<li><b>Weather Forecast</b></li>
-	<li> <b>Earthquake</b>Includes magnitude panel and safety measures</li>
-  <li> <b>Fire</b>Includes safety measures and emergency contacts</li>
+	<li> <b>Earthquake</b> Includes magnitude panel and safety measures</li>
+  <li> <b>Fire</b> Includes safety measures and emergency contacts</li>
   <li><strong>Real-time notifications</strong> for fire and earthquake detection</li>
 </ul>
 
