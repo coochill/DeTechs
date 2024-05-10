@@ -24,6 +24,8 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
     <div class="row">
         <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e1d.png" alt="Image 2" width="300">
         <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e2d.png" alt="Image 3" width="300">
+    </div>
+	    <div class="row">
 	<img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="200">
         <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/weather.png" alt="Image 4" width="300">
     </div>
