@@ -25,7 +25,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 </p>
 
 <ul>
-  <h5>Gadget Features and Components </h5>
+  <h3>Gadget Features and Components </h3>
   <li><strong>Components</strong></li>
   <li> <b>Arduino Uno</b></li>
   <li> <b>Breadboard</b></li>
@@ -36,7 +36,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 </ul>
 
 <ul>
-  <h5> Windows application Features </h5>
+  <h3> Windows application Features </h3>
 	<li><strong>Dashboards</strong></li>
 	<li><b>Weather Forecast</b></li>
 	<li> <b>Earthquake</b>Includes magnitude panel and safety measures</li>
@@ -50,7 +50,8 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <h5>SDG 11: Sustainable cities and Communities </h5>
 <table>
 	<tr>
-		<td><th>Target 11.5 Disaster Reduction :</th>By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.</td>
+		<th>Target 11.5 Disaster Reduction :</th>
+		<td>By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.</td>
 	</tr>
 </table>
 <p>This target emphasizes the importance of disaster risk reduction measures in urban areas to minimize the loss of lives, livelihoods, and assets caused by disasters such as floods, earthquakes, storms, and other hazards. It underscores the need for policies and investments that enhance resilience, improve early warning systems, and promote sustainable urban planning and management to mitigate the impact of disasters on communities, particularly vulnerable populations.</p>
@@ -58,14 +59,16 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
  <h5>SDG 13: Climate Action </h5>
 <table>
 	<tr>
-		<td><th>Target 13.1:</th>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</td>
+		<th>Target 13.1:</th>
+		<td>Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.</td>
 	</tr>
 </table>
 <p>The gadget contributes to strengthening resilience and adaptive capacity by providing real-time alerts for various natural disasters such as fires, earthquakes, and typhoons. These alerts enable individuals and communities to take timely actions to mitigate the impact of climate-related hazards and reduce the risk of loss of life and property damage.</p>
 
 <table>
 	<tr>
-		<td><th>Target 13.2:</th>Integrate climate change measures into national policies, strategies, and planning.</td>
+		<th>Target 13.2:</th>
+		<td>Integrate climate change measures into national policies, strategies, and planning.</td>
 	</tr>
 </table>
 <p>By providing information and alerts related to climate-related hazards, the gadget supports the integration of climate change measures into national policies and strategies for disaster risk reduction and emergency response planning.</p>
