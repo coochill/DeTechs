@@ -26,7 +26,6 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 
 <ul>
   <h3>Gadget Features and Components </h3>
-  <li><strong>Components</strong></li>
   <li> <b>Arduino Uno</b></li>
   <li> <b>Breadboard</b></li>
   <li> <b>Wires and LEDs</b></li>
@@ -37,10 +36,9 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 
 <ul>
   <h3> Windows application Features </h3>
-	<li><strong>Dashboards</strong></li>
 	<li><b>Weather Forecast</b> Includes heat index and precipitation updates</li>
-	<li> <b>Earthquake</b> Includes magnitude panel and safety measures</li>
-  <li> <b>Fire</b> Includes safety measures and emergency contacts</li>
+	<li> <b>Earthquake dashboard</b> Includes magnitude panel and safety measures</li>
+  <li> <b>Fire dashboard</b> Includes safety measures and emergency contacts</li>
   <li><strong>Real-time notifications</strong> for fire and earthquake detection</li>
 </ul>
 
