@@ -1,4 +1,6 @@
-
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg">
+</p>
 <h1 align="center"> 
 DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <h3 align="center"> CS222 - Advanced Object Oriented Programming </h3>
@@ -18,7 +20,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 
 ## Features 
 <p align="center"> 
-    <img src="">
+    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg">
 </p>
 
 <ul>
