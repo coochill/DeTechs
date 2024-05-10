@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg">
+    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" width = "50">
 </p>
 <h1 align="center"> 
 DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
