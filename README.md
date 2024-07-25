@@ -4,7 +4,7 @@
 <h1 align="center"> 
 DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <h3 align="center"> CS222 - Advanced Object Oriented Programming </h3>
-<h5 align="center"> Final Project - Batangas State University - Alagilan, Second Semester 2024 </h3>
+<h5 align="center"> Final Project - Batangas State University - Alangilan, Second Semester 2024 </h3>
 
 <h5 align="center"> Members </h3>
 <p align="center">Balbuena, Jeff  </p>
