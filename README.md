@@ -9,7 +9,7 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 <h5 align="center"> Members </h3>
 <p align="center">Balbuena, Jeff  </p>
 <p align="center">Domingo, Joy </p>
-<p align="center">Salva, Dorothy Castueras</p>
+<p align="center">Salva, Dorothy</p>
 <p align="center">Sumang, Vex</p>
 
  ## About
