@@ -92,5 +92,5 @@ DETECHS: DEVELOPMENT OF A SCHOOL-BASED DISASTER DETECTION SYSTEM</h1>
 </ul>
 
 ## Complete files 
-<p>https://drive.google.com/drive/folders/165G9tnoGgpNPnYmHkU_FD5rSV1yvEhmM?usp=drive_link</p>
+<p>https://drive.google.com/drive/folders/165G9tnoGgpNPnYmHkU_FD5rSV1yvEhmM?usp=sharing</p>
 
